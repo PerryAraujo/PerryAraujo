@@ -15,6 +15,20 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!-- Microsoft Word -->
+  <img align="center" alt="Word" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-plain.svg">
+
+  <!-- Microsoft Excel -->
+  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-plain.svg">
+
+  <!-- Microsoft PowerPoint -->
+  <img align="center" alt="PowerPoint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-plain.svg">
+
+  <!-- Notion -->
+  <img align="center" alt="Notion" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
+
+  <!-- ChatGPT (OpenAI) -->
+  <img align="center" alt="ChatGPT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
 </div>
 
 
