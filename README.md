@@ -24,7 +24,7 @@
   
   <!-- Python -->
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+<br>
   <!-- Word (imagem externa confiável) -->
   <img align="center" alt="Word" height="30" width="30" src="https://img.icons8.com/color/48/000000/ms-word.png"/>
 
