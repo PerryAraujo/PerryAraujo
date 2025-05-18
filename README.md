@@ -9,29 +9,36 @@
 
 
 <!-- Minhas Linguagens-->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <div style="display: inline-block"><br>
-  <!-- Microsoft Word -->
-  <img align="center" alt="Word" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-plain.svg">
+  <!-- JavaScript -->
+  <img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <!-- React -->
+  <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <!-- HTML -->
+  <img align="center" alt="HTML5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <!-- CSS -->
+  <img align="center" alt="CSS3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <!-- Python -->
+  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <!-- Microsoft Excel -->
-  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-plain.svg">
+  <!-- Word (imagem externa confiável) -->
+  <img align="center" alt="Word" height="30" width="30" src="https://img.icons8.com/color/48/000000/ms-word.png"/>
 
-  <!-- Microsoft PowerPoint -->
-  <img align="center" alt="PowerPoint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-plain.svg">
+  <!-- Excel -->
+  <img align="center" alt="Excel" height="30" width="30" src="https://img.icons8.com/color/48/000000/ms-excel.png"/>
+
+  <!-- PowerPoint -->
+  <img align="center" alt="PowerPoint" height="30" width="30" src="https://img.icons8.com/color/48/000000/ms-powerpoint.png"/>
 
   <!-- Notion -->
-  <img align="center" alt="Notion" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
+  <img align="center" alt="Notion" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">
 
   <!-- ChatGPT (OpenAI) -->
-  <img align="center" alt="ChatGPT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
-</div>
-
+  <img align="center" alt="ChatGPT" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
 </div>
 
 
