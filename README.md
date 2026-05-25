@@ -1,7 +1,8 @@
   ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PerryAraujo&theme=dark&cache_seconds=1800)](https://github.com/PerryAraujo/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerryAraujo&layout=compact&langs_count=10&theme=dark&hide_border=true&include_private=true&cache_seconds=1800)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PerryAraujo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/PerryAraujo)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerryAraujo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 
 
