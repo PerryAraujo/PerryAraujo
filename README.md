@@ -24,8 +24,8 @@ const perry = {
 ### ✦ GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PerryAraujo&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerryAraujo&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=a78bfa&text_color=ffffff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PerryAraujo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerryAraujo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <br/>
@@ -40,6 +40,9 @@ const perry = {
   <img alt="HTML5" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
   <img alt="CSS3" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
   <img alt="Python" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img alt="Word" height="36" width="36" src="https://img.icons8.com/color/48/000000/ms-word.png"/>&nbsp;&nbsp;
+  <img alt="Excel" height="36" width="36" src="https://img.icons8.com/color/48/000000/ms-excel.png"/>&nbsp;&nbsp;
+  <img alt="PowerPoint" height="36" width="36" src="https://img.icons8.com/color/48/000000/ms-powerpoint.png"/>&nbsp;&nbsp;
   <img alt="Notion" height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg">&nbsp;&nbsp;
   <img alt="ChatGPT" height="36" width="36" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
 </div>
@@ -52,13 +55,13 @@ const perry = {
 
 <div align="center">
   <a href="https://instagram.com/perry_arauj0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=a78bfa"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:perryvictor33@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/perry-araujo-57285a278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
