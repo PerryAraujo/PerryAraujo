@@ -38,13 +38,6 @@ const perry = {
 
 <br/>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PerryAraujo&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerryAraujo&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&cache_seconds=1800"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PerryAraujo&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" />
@@ -116,11 +109,7 @@ const perry = {
   </a>
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PerryAraujo/count.svg" />
-</div>
 
 <br/>
 
