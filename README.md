@@ -6,14 +6,14 @@
 
 <div align="center">
 
-```javascript
+javascript
 const perry = {
   developer : "Frontend & Systems Developer",
   company   : "NovoWeb",
   focus     : ["Web Sites", "ERP Systems", "UI/UX", "Micro-SaaS"],
   stack     : ["JavaScript", "React", "HTML", "CSS", "Python"]
 }
-```
+
 
 </div>
 
