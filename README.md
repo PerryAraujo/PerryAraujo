@@ -28,16 +28,6 @@ const perry = {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:444444&height=2&section=header" />
 </div>
 
-
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:444444&height=2&section=header" />
-</div>
-
-<br/>
-
 <div align="center">
 
 ### ▸ Tech Stack
