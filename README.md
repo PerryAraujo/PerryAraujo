@@ -28,20 +28,7 @@ const perry = {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:444444&height=2&section=header" />
 </div>
 
-<br/>
 
-<div align="center">
-
-### ▸ GitHub Stats
-
-</div>
-
-<br/>
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PerryAraujo&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" />
-</div>
 
 <br/>
 
