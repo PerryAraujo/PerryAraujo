@@ -35,9 +35,10 @@ Projetos entregues para clínicas, consultórios de advocacia e pet shops, com f
 
 ### Projetos
 
-**[Retimac](https://retimac.com.br)** — site institucional para retífica de motores diesel, com captação de orçamento direto via WhatsApp.
-
-**[Novo Mercado Pet](https://appnovomercadopet.com.br)** — SaaS para clínicas veterinárias e pet shops: conecta a planilha do Google Sheets do cliente e gera automaticamente um dashboard de faturamento, inadimplência e retorno de clientes.
+- **ERP para papelaria** — sistema de gestão com controle de produtos, estoque e vendas em um painel único.
+- **Site institucional para loja de autopeças** — catálogo de produtos e captação de orçamento direto via WhatsApp.
+- **Sistema de agendamento para barbearia** — reserva de horário online, cadastro de cliente e cartão de fidelidade digital.
+- **Site institucional para escritório de advocacia** — apresentação das áreas de atuação, blog jurídico e contato integrado.
 
 ---
 
