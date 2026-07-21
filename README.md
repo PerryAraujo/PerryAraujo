@@ -9,7 +9,14 @@ Frontend & Systems Developer — construindo produtos web para pequenas empresas
 <br>
 
 <div align="center">
-  <sub>JAVASCRIPT · TYPESCRIPT · REACT · NODE.JS · PHP · PYTHON</sub>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+
 </div>
 
 <br>
@@ -26,11 +33,11 @@ Projetos entregues para clínicas, consultórios de advocacia e pet shops, com f
 
 <br>
 
-### Destaque
+### Projetos
 
-**[kortix-ai/suna](https://github.com/kortix-ai/suna)** — contribuições em projeto open source de agentes de IA, TypeScript.
+**[Retimac](https://retimac.com.br)** — site institucional para retífica de motores diesel, com captação de orçamento direto via WhatsApp.
 
-<br>
+**[Novo Mercado Pet](https://appnovomercadopet.com.br)** — SaaS para clínicas veterinárias e pet shops: conecta a planilha do Google Sheets do cliente e gera automaticamente um dashboard de faturamento, inadimplência e retorno de clientes.
 
 ---
 
